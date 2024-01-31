@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="enter_title">Введите название</string>
+    <string name="write_task">Напишите записку здесь..</string>
+    <string name="add_task">Добавить примечание</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Редактировать</string>
+    <string name="all_notes">Все Заметки</string>
+    <string name="edit_note">Редактировать заметку</string>
+</resources>
